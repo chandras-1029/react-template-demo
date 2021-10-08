@@ -1,20 +1,76 @@
 {
-  "..\\components\\Common\\RecentWorks.js -> react-owl-carousel3": {
-    "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
+  "..\\components\\Common\\BlogPostStyleThree.js -> react-owl-carousel3": {
+    "id": 68694,
     "files": [
-      "static/chunks/vendors-node_modules_react-owl-carousel3_lib_OwlCarousel_js.js"
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  },
+  "..\\components\\Common\\FeedbackStyleFive.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  },
+  "..\\components\\Common\\FeedbackStyleThree.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  },
+  "..\\components\\Common\\FeedbackStyleTwo.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  },
+  "..\\components\\Common\\PartnerStyleTwo.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  },
+  "..\\components\\Common\\RecentWorks.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
     ]
   },
   "..\\components\\Common\\Team.js -> react-owl-carousel3": {
-    "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
+    "id": 68694,
     "files": [
-      "static/chunks/vendors-node_modules_react-owl-carousel3_lib_OwlCarousel_js.js"
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
     ]
   },
-  "..\\node_modules\\next\\dist\\client\\next-dev.js -> ./dev/noop": {
-    "id": "./node_modules/next/dist/client/dev/noop.js",
+  "..\\components\\DigitalAgencyPortfolio\\MainBanner.js -> react-owl-carousel3": {
+    "id": 68694,
     "files": [
-      "static/chunks/node_modules_next_dist_client_dev_noop_js.js"
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  },
+  "..\\components\\DigitalAgencyPortfolio\\Partner.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  },
+  "..\\components\\DigitalAgency\\Projects.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  },
+  "..\\components\\MachineLearningTwo\\Projects.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": []
+  },
+  "..\\components\\MachineLearning\\Projects.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": []
+  },
+  "..\\components\\Shop\\ProductSlider.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
     ]
   }
 }
