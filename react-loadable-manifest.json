@@ -1,0 +1,76 @@
+{
+  "..\\components\\Common\\BlogPostStyleThree.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  },
+  "..\\components\\Common\\FeedbackStyleFive.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  },
+  "..\\components\\Common\\FeedbackStyleThree.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  },
+  "..\\components\\Common\\FeedbackStyleTwo.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  },
+  "..\\components\\Common\\PartnerStyleTwo.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  },
+  "..\\components\\Common\\RecentWorks.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  },
+  "..\\components\\Common\\Team.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  },
+  "..\\components\\DigitalAgencyPortfolio\\MainBanner.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  },
+  "..\\components\\DigitalAgencyPortfolio\\Partner.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  },
+  "..\\components\\DigitalAgency\\Projects.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  },
+  "..\\components\\MachineLearningTwo\\Projects.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": []
+  },
+  "..\\components\\MachineLearning\\Projects.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": []
+  },
+  "..\\components\\Shop\\ProductSlider.js -> react-owl-carousel3": {
+    "id": 68694,
+    "files": [
+      "static/chunks/617777a1-3d51515bcc449c704089.js"
+    ]
+  }
+}
