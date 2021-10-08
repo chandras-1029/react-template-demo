@@ -9,4 +9,8 @@ module.exports = {
         locales: ['en', 'ar'],
         defaultLocale: 'en',
     },
+    env: {
+        PUBLIC_URL: "https://chandras-1029.github.io/react-template-demo",
+        assetPrefix: './'
+      }
 }
